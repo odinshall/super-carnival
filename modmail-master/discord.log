@@ -1,0 +1,6 @@
+2020-04-08 13:35:37,912:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2020-04-08 13:35:37,958:INFO:discord.client: logging in using static token
+2020-04-08 13:35:39,777:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2020-04-08 13:35:40,628:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-main-ngfx",{"micros":46398,"calls":["discord-sessions-prd-1-69",{"micros":40585,"calls":["start_session",{"micros":33823,"calls":["api-prd-main-x4sl",{"micros":30798,"calls":["get_user",{"micros":4287},"add_authorized_ip",{"micros":1749},"get_guilds",{"micros":1751},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":3787,"calls":[]}]}]}] (Session ID: 49fbdd16551f13231a476c72f44f632b).
+2020-04-08 13:35:42,639:INFO:cogs.events: Mr. Robot#7784 is online!
+2020-04-08 13:35:42,639:INFO:cogs.events: --------
